@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/faqaccordioncard-using-htmlcssvanilla-js-p4AegnAqQl)
+- Live Site URL: [live site URL](https://mohamedlebda.github.io/frontend-mentor-faq-accordion-card/)
 
 ## My process
 
